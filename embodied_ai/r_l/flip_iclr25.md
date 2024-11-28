@@ -14,28 +14,9 @@ pt:t+L to enable iterative planning for the next planning step.
 
 ![这是图片](/embodied_ai/r_l/imgs/FLIP_iclr25.jpeg "frame")
 
-- **Key Idea/Method**: [Briefly describe the approach/method used.]
-(optional)- **Results**: [Summarize the main findings or achievements.]
 
----
-
-(optional)- ## 2. Core Contributions
-- [List the key contributions of the paper in bullet points.]
-
----
 
 ## 3. Key Takeaways
 - language-img similarity 可以做value /reward很有新意
-
----
-
-(optional)- ## 4. Critique/Questions
-- **Strengths**: [What are the strong points of the paper?]
-- **Weaknesses**: [What could be improved?]
-- **Questions**: [Any unresolved questions or parts you found unclear?]
-
----
-
-(optional)- ## 5. Relevance/Future Use
-- **Relevance**: [How does this paper connect to your current work or interests?]
-- **Ideas for Future**: [List any ideas, projects, or directions this paper inspired.]
+- 相比于ATM,RSS,pieter abbeel，这篇工作用image flow替换了point tracking。不不不 还是point tracking。 这篇工作预测位移而不是绝对位置，有performance boost.
+-  planning through beam search with reward from video-language reward

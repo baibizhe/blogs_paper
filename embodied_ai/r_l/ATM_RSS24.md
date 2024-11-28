@@ -17,4 +17,5 @@ template is here
 
 ## 3. Key Takeaways
 - Q: why need points ---> points guide policy training, points are efficient than imgs, video prediction are redundant.
+- Weakness: Dec 2024 write, this paper is over 40 citations already. Not new.
 

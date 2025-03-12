@@ -1,0 +1,18 @@
+template is here
+# Paper Title: Scaling Test-Time Compute Without Verification or RL is Suboptimal
+**Authors**: Sergey Levine
+**Published In**: 2025.02 arxiv
+**Link**: https://arxiv.org/pdf/2502.12118
+
+# Paper Title: SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training
+**Authors**: Sergey Levine, Yi Ma
+**Published In**: 2025.01 arxiv
+**Link**: https://arxiv.org/pdf/2501.17161?
+
+---
+
+
+## 3. Key Takeaways
+- RL is better than sft in generalization.
+- RL is needed in test-time-computing.
+
